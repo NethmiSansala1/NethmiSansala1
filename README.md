@@ -81,26 +81,18 @@
 
 ## 🎓 Education & Certifications
 
-- 📚 **BSc. in Data Science** – [Your University Name] (Final Year)  
-- 🏆 CIMA Certificate Level – Wisdom Business Academy  
-- 📜 Certifications: AWS Fundamentals, Data Science with Python (Coursera), Excel to MySQL (Duke)
+- 📚 **BSc (Hons) in Data Science** – University of Colombo  
+- 🏆 CIMA Certificate Level – Wisdom Business Academy 
 
 ---
 
-## 🧪 Research & Interests
-
-- 🔬 Final Year Research: *Predictive Modeling for Healthcare Outcomes*
-- 🌱 Interests: AI Ethics, Cloud ML Pipelines, Deep Learning, Time Series Forecasting
-- 📊 Curious about: Data storytelling, bias in algorithms, and simulation modeling
-
----
 
 ## ✨ Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-YourEmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:nethu0332264106@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nethmi-sansala-37aa58315"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/NethmiSansala1"><img src="https://img.shields.io/badge/GitHub-lightgrey?style=for-the-badge&logo=github" /></a>
 </p>
 
 ---
