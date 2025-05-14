@@ -1,11 +1,15 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+%F0%9F%91%8B+Nethmi+Sansala;Final+Year+Data+Science+Undergraduate;Machine+Learning+%7C+AI+%7C+Analytics+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
-</p>
+<!-- Banner -->
+<table align="center">
+  <tr>
+    <td align="left" width="60%">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=36BCF7&center=false&vCenter=true&width=500&lines=Hey+there!+I'm+%F0%9F%91%8B+Nethmi+Sansala;Final+Year+Data+Science+Undergraduate;Machine+Learning+%7C+AI+%7C+Analytics+Enthusiast" alt="Typing SVG" />
+    </td>
+    <td align="right" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 
 ---
