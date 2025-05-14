@@ -30,7 +30,7 @@
 | [🌍 World Happiness Dashboard](https://github.com/NethmiSansala1/world-happiness-dashboard) | `Power BI`, `DAX`, `Excel` | An interactive global dashboard revealing factors behind happiness scores. |
 | [🧬 Lung Cancer Predictor](https://github.com/NethmiSansala1/lung-cancer-prediction) | `Python`, `Sklearn`, `Pandas``Flask`, `HTML` | A predictive tool that uses cluster-based ML models to assess lung cancer risk from patient data. |
 | [🛏️ Sleep Health & Lifestyle Dashboard](https://github.com/NethmiSansala1/sleep-health-dashboard) | `R`, `Shiny`, `ggplot2` | Developed an interactive RShiny dashboard to explore how lifestyle habits affect sleep health. |
-| [🏠 House Price Prediction](https://github.com/NethmiSansala1/house-price-regression) | `Regression`, `R` | Performed regression analysis to predict housing prices based on various property features. |
+| [🏠 House Price Prediction](https://github.com/NethmiSansala1/house-price-regression) | `R`, `Regression` | Performed regression analysis to predict housing prices based on various property features. |
 ---
 
 ## 🛠 Tech Toolbox
