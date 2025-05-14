@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
 </p>
+
 
 ---
 
@@ -31,13 +32,46 @@
 
 ## 🛠 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,jupyter,mysql,tensorflow,pandas,seaborn,sklearn,excel" />
+<!-- Row 1: Icon Logos (optimized for dark themes) -->
+<p align="center"> 
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="margin-right: 15px;" /> 
+  </a> 
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="margin-right: 15px;" /> 
+  </a> 
+  <!-- scikit-learn -->
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50" style="margin-right: 15px;" /> 
+  </a> 
+  <!-- Seaborn (white logo for dark background) -->
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="50" height="50" style="margin-right: 15px; background-color: white; border-radius: 8px;" /> 
+  </a> 
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50" style="margin-right: 15px;" /> 
+  </a>
 </p>
 
+<!-- Row 2: Badges for R, Pandas, and Other Tools (bright and readable for dark mode) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-FAE04B?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <!-- R Logo -->
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <!-- Pandas Logo -->
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin-right: 15px;" />
+  </a>
+  <!-- Power BI Badge -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <!-- Minitab Badge -->
   <img src="https://img.shields.io/badge/Minitab-005B9A?style=for-the-badge&logoColor=white" />
+  <!-- Excel Badge -->
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
 ---
