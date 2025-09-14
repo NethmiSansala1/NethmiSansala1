@@ -32,7 +32,7 @@
 | [🛏️ Sleep Health & Lifestyle Dashboard](https://github.com/NethmiSansala1/sleep-health-dashboard) | `R`, `Shiny`, `ggplot2` | Developed an interactive RShiny dashboard to explore how lifestyle habits affect sleep health. |
 | [🏠 House Price Prediction](https://github.com/NethmiSansala1/house-price-regression) | `R`, `Regression` | Performed regression analysis to predict housing prices based on various property features. |
 | [📊 Alternative Data Stock Analytics Dashboard](https://github.com/NethmiSansala1/stock-market-dashboard) | `Python`, `Streamlit`, `Google Cloud`, `SARIMAX` | Cloud-based stock analytics dashboard integrating traditional & alternative data with real-time forecasting and interactive visuals. |
-| [🌫️ Air Pollution Causal Analysis](https://github.com/NethmiSansala1/air-pollution-causal-analysis) | `Python`, `Gaussian-Copula VAR`, `KANGCI` | Causal inference study on Beijing PM2.5 using Gaussian-Copula VAR and KANGCI to identify key meteorological drivers. |
+| [🌫️ Air Pollution Causal Analysis](https://github.com/NethmiSansala1/Causal-AI-time-series) | `Python`, `Gaussian-Copula VAR`, `KANGCI` | Causal inference study on Beijing PM2.5 using Gaussian-Copula VAR and KANGCI to identify key meteorological drivers. |
 | [☕ Coffee Quality Prediction](https://github.com/NethmiSansala1/coffee-quality-prediction) | `Python`, `Sklearn`, `XGBoost`, `Pandas` | Predicted coffee quality grades using ML models; achieved 97% accuracy with XGBoost and optimized features via RFECV. |
 ---
 
