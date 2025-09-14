@@ -31,6 +31,10 @@
 | [🧬 Lung Cancer Predictor](https://github.com/NethmiSansala1/lung-cancer-prediction) | `Python`, `Sklearn`, `Pandas`,`Flask`, `HTML` | A predictive tool that uses cluster-based ML models to assess lung cancer risk from patient data. |
 | [🛏️ Sleep Health & Lifestyle Dashboard](https://github.com/NethmiSansala1/sleep-health-dashboard) | `R`, `Shiny`, `ggplot2` | Developed an interactive RShiny dashboard to explore how lifestyle habits affect sleep health. |
 | [🏠 House Price Prediction](https://github.com/NethmiSansala1/house-price-regression) | `R`, `Regression` | Performed regression analysis to predict housing prices based on various property features. |
+| [💰 Personal Expense Tracker (AI-Assisted, Vibe Coding)](https://github.com/NethmiSansala1/personal-expense-tracker) | `Lovable AI`, `Vibe Coding`, `Web Dev` | Web-based personal expense tracker with AI-assisted design, multi-currency support, budgeting alerts, and interactive visualizations. |
+| [📊 Alternative Data Stock Analytics Dashboard](https://github.com/NethmiSansala1/stock-market-dashboard) | `Python`, `Streamlit`, `Google Cloud`, `SARIMAX` | Cloud-based stock analytics dashboard integrating traditional & alternative data with real-time forecasting and interactive visuals. |
+| [🌫️ Air Pollution Causal Analysis](https://github.com/NethmiSansala1/air-pollution-causal-analysis) | `Python`, `Gaussian-Copula VAR`, `KANGCI` | Causal inference study on Beijing PM2.5 using Gaussian-Copula VAR and KANGCI to identify key meteorological drivers. |
+| [☕ Coffee Quality Prediction](https://github.com/NethmiSansala1/coffee-quality-prediction) | `Python`, `Sklearn`, `XGBoost`, `Pandas` | Predicted coffee quality grades using ML models; achieved 97% accuracy with XGBoost and optimized features via RFECV. |
 ---
 
 ## 🛠 Tech Toolbox
